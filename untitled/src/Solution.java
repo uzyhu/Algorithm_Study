@@ -7,6 +7,7 @@ class Solution {
         int minX=0;
         int maxY=0;
         int minY=0;
+
         int[] xArr = new int[wallpaper[0].length()];
         int[] yArr = new int[wallpaper.length];
         for(int i=0; i<wallpaper.length; i++){
