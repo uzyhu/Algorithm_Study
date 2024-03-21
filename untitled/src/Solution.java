@@ -41,6 +41,7 @@ class Solution {
         answer[1] = minX;
         answer[2] = maxY+1;
         answer[3] = maxX+1;
+
         return answer;
     }
 }
