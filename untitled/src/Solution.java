@@ -2,8 +2,7 @@ import java.lang.*;
 
 class Solution {
     public int[] solution(String[] wallpaper) {
-        int[] answer = new int[4]; //x배열 따로 y배열따로 가장큰거와 가장작은거 찾아내면됨
-        String wallStr="";
+        int[] answer = new int[4]; //x배열 따로 y배열따로 가장큰거와 가장 작은거 찾아내면됨
         int maxX=0;
         int minX=0;
         int maxY=0;
